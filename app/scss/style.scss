@@ -53,6 +53,15 @@
     font-size: 14px;
   }
 }
+.header__circle {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background-color: #f5f5f5;
+  & + .header__circle {
+    margin-left: 15px;
+  }
+}
 
 // end header
 // start search
@@ -276,7 +285,7 @@
 .advantages__item{
   max-width: 370px;
   text-align: center;
-  padding: 0px 15px;
+  padding: 0 15px;
   &:hover{
     .advantages__item-images{
       background-color: $green;
