@@ -4,13 +4,14 @@
          url('../fonts/Roboto-Regular.woff') format('woff');
     font-display: swap;
 }
+
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?rljd0t');
-  src:  url('../fonts/icomoon.eot?rljd0t#iefix') format('embedded-opentype'),
-  url('../fonts/icomoon.ttf?rljd0t') format('truetype'),
-  url('../fonts/icomoon.woff?rljd0t') format('woff'),
-  url('../fonts/icomoon.svg?rljd0t#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?ycsxd9');
+  src:  url('../fonts/icomoon.eot?ycsxd9#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ycsxd9') format('truetype'),
+    url('../fonts/icomoon.woff?ycsxd9') format('woff'),
+    url('../fonts/icomoon.svg?ycsxd9#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -19,7 +20,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: never;
+  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -30,6 +31,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 
 .icon-search:before {
   content: "\f002";
@@ -88,6 +90,9 @@
 .icon-bell-o:before {
   content: "\f0a2";
 }
+.icon-briefcase:before {
+  content: "\f0b1";
+}
 .icon-group:before {
   content: "\f0c0";
 }
@@ -117,9 +122,6 @@
 }
 .icon-flash:before {
   content: "\f0e7";
-}
-.icon-suitcase:before {
-  content: "\f0f2";
 }
 .icon-angle-right:before {
   content: "\f105";

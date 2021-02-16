@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c29edb5d-728a-4ef6-9fdd-9c6a9636ad71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oLWMSLMqYtrXIz1VQgUNyz80Lv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\from0to1\moderno\app\images\content" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c29edb5d-728a-4ef6-9fdd-9c6a9636ad71" name="Default Changelist" comment="" />
+      <created>1613066302044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613066302044</updated>
+      <workItem from="1613066303525" duration="5316000" />
+      <workItem from="1613080765103" duration="3267000" />
+      <workItem from="1613090984335" duration="11000" />
+      <workItem from="1613129094124" duration="10876000" />
+      <workItem from="1613146544443" duration="13196000" />
+      <workItem from="1613225236081" duration="2659000" />
+      <workItem from="1613306339771" duration="5758000" />
+      <workItem from="1613430820730" duration="964000" />
+      <workItem from="1613462197200" duration="6631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1613483845143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613483845143" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1613483845143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613483845143" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1613483845142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613483845142" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1613483845143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613483845143" />
+    <state x="1009" y="446" key="Vcs.Push.Dialog.v2" timestamp="1613154213329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1009" y="446" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613154213329" />
+  </component>
+</project>
